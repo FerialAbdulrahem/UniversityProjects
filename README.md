@@ -1,2 +1,2 @@
-# UniversityProjects
-University projects throughout out the years
+# Semester4Projects
+University projects throughout out the semester
