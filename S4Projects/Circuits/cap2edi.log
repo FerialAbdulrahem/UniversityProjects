@@ -1,0 +1,23 @@
+
+Copyright (c) 2006-2016, Elgris Technologies, Inc.
+
+OrCAD Capture to EDIF 2 0 0 Schematic Conversion Program SPB 17.20_1.102 built Feb  3 2016
+
+Started on Thu May 08 19:57:52 2025
+
+Reading config file c:\cadence\spb_17.2\tools\capture\cap2edi.cfg
+
+orcadread :Converting file C:\USERS\FERIA\DESKTOP\PROJECT\CIRCUITS\ORCAD\PROJECT CIRCUIT.DSN 
+Converting SchematicView   SCHEMATIC1 
+	Converting elements on  page PAGE1
+		Converting Parts
+		converting Globals of Page PAGE1 of SchematicView SCHEMATIC1
+		Converting Buses and Nets of Schematic View SCHEMATIC1 
+
+Writing EDIF: C:\Users\feria\Desktop\Project\Circuits\PROJECT CIRCUIT.EDF
+
+
+Finished on Thu May 08 19:57:53 2025
+
+
+0 errors detected, 0 warnings detected
