@@ -1,0 +1,232 @@
+# Compile of Smart_Parking.vhd was successful.
+# Compile of Smart_Parking_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.smart_parking_tb
+# vsim work.smart_parking_tb 
+# Start time: 20:13:45 on Nov 27,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.smart_parking_tb(testbench)
+# Loading work.smart_parking(behavioral)
+add wave -position end  sim:/smart_parking_tb/clk
+add wave -position end  sim:/smart_parking_tb/reset
+add wave -position end  sim:/smart_parking_tb/mode_switch
+add wave -position end  sim:/smart_parking_tb/sensor_in
+add wave -position end  sim:/smart_parking_tb/sensor_out
+add wave -position end  sim:/smart_parking_tb/gate_switch
+add wave -position end  sim:/smart_parking_tb/final_gate_state
+add wave -position end  sim:/smart_parking_tb/servo_pwm
+add wave -position end  sim:/smart_parking_tb/spots_display
+add wave -position end  sim:/smart_parking_tb/clk_period
+run
+run
+vsim work.smart_parking_tb
+# End time: 20:15:31 on Nov 27,2025, Elapsed time: 0:01:46
+# Errors: 0, Warnings: 2
+# vsim work.smart_parking_tb 
+# Start time: 20:15:31 on Nov 27,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.smart_parking_tb(testbench)
+# Loading work.smart_parking(behavioral)
+add wave -position end  sim:/smart_parking_tb/clk
+add wave -position end  sim:/smart_parking_tb/reset
+add wave -position end  sim:/smart_parking_tb/mode_switch
+add wave -position end  sim:/smart_parking_tb/sensor_in
+add wave -position end  sim:/smart_parking_tb/sensor_out
+add wave -position end  sim:/smart_parking_tb/gate_switch
+add wave -position end  sim:/smart_parking_tb/final_gate_state
+add wave -position end  sim:/smart_parking_tb/servo_pwm
+add wave -position end  sim:/smart_parking_tb/spots_display
+add wave -position end  sim:/smart_parking_tb/clk_period
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vsim work.smart_parking_tb
+# End time: 20:18:03 on Nov 27,2025, Elapsed time: 0:02:32
+# Errors: 0, Warnings: 1
+# vsim work.smart_parking_tb 
+# Start time: 20:18:03 on Nov 27,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.smart_parking_tb(testbench)
+# Loading work.smart_parking(behavioral)
+add wave -position end  sim:/smart_parking_tb/clk
+add wave -position end  sim:/smart_parking_tb/reset
+add wave -position end  sim:/smart_parking_tb/mode_switch
+add wave -position end  sim:/smart_parking_tb/sensor_in
+add wave -position end  sim:/smart_parking_tb/sensor_out
+add wave -position end  sim:/smart_parking_tb/gate_switch
+add wave -position end  sim:/smart_parking_tb/final_gate_state
+add wave -position end  sim:/smart_parking_tb/servo_pwm
+add wave -position end  sim:/smart_parking_tb/spots_display
+add wave -position end  sim:/smart_parking_tb/clk_period
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vsim work.smart_parking_tb
+# End time: 20:20:07 on Nov 27,2025, Elapsed time: 0:02:04
+# Errors: 0, Warnings: 1
+# vsim work.smart_parking_tb 
+# Start time: 20:20:07 on Nov 27,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.smart_parking_tb(testbench)
+# Loading work.smart_parking(behavioral)
+add wave -position end  sim:/smart_parking_tb/clk
+add wave -position end  sim:/smart_parking_tb/reset
+add wave -position end  sim:/smart_parking_tb/mode_switch
+add wave -position end  sim:/smart_parking_tb/sensor_in
+add wave -position end  sim:/smart_parking_tb/sensor_out
+add wave -position end  sim:/smart_parking_tb/gate_switch
+add wave -position end  sim:/smart_parking_tb/final_gate_state
+add wave -position end  sim:/smart_parking_tb/servo_pwm
+add wave -position end  sim:/smart_parking_tb/spots_display
+add wave -position end  sim:/smart_parking_tb/clk_period
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vsim work.smart_parking_tb
+# End time: 20:22:16 on Nov 27,2025, Elapsed time: 0:02:09
+# Errors: 0, Warnings: 1
+# vsim work.smart_parking_tb 
+# Start time: 20:22:16 on Nov 27,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.smart_parking_tb(testbench)
+# Loading work.smart_parking(behavioral)
+add wave -position end  sim:/smart_parking_tb/clk
+add wave -position end  sim:/smart_parking_tb/reset
+add wave -position end  sim:/smart_parking_tb/mode_switch
+add wave -position end  sim:/smart_parking_tb/sensor_in
+add wave -position end  sim:/smart_parking_tb/sensor_out
+add wave -position end  sim:/smart_parking_tb/gate_switch
+add wave -position end  sim:/smart_parking_tb/final_gate_state
+add wave -position end  sim:/smart_parking_tb/servo_pwm
+add wave -position end  sim:/smart_parking_tb/spots_display
+add wave -position end  sim:/smart_parking_tb/clk_period
+run
+vsim work.smart_parking_tb
+# End time: 20:23:02 on Nov 27,2025, Elapsed time: 0:00:46
+# Errors: 0, Warnings: 1
+# vsim work.smart_parking_tb 
+# Start time: 20:23:02 on Nov 27,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.smart_parking_tb(testbench)
+# Loading work.smart_parking(behavioral)
+add wave -position end  sim:/smart_parking_tb/clk
+add wave -position end  sim:/smart_parking_tb/reset
+add wave -position end  sim:/smart_parking_tb/mode_switch
+add wave -position end  sim:/smart_parking_tb/sensor_in
+add wave -position end  sim:/smart_parking_tb/sensor_out
+add wave -position end  sim:/smart_parking_tb/gate_switch
+add wave -position end  sim:/smart_parking_tb/final_gate_state
+add wave -position end  sim:/smart_parking_tb/servo_pwm
+add wave -position end  sim:/smart_parking_tb/spots_display
+add wave -position end  sim:/smart_parking_tb/clk_period
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 20:34:15 on Nov 27,2025, Elapsed time: 0:11:13
+# Errors: 0, Warnings: 1

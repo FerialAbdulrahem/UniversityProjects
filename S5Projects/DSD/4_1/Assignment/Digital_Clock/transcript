@@ -1,0 +1,113 @@
+# Compile of Digital_Clock.vhd was successful.
+# Compile of Digital_Clock_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.digitalclock_tb
+# vsim work.digitalclock_tb 
+# Start time: 19:43:44 on Nov 27,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.digitalclock_tb(testbench)
+# Loading work.digitalclock(behavioral)
+add wave -position end  sim:/digitalclock_tb/clk
+add wave -position end  sim:/digitalclock_tb/reset
+add wave -position end  sim:/digitalclock_tb/hours
+add wave -position end  sim:/digitalclock_tb/minutes
+add wave -position end  sim:/digitalclock_tb/seconds
+add wave -position end  sim:/digitalclock_tb/clk_period
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 19:48:29 on Nov 27,2025, Elapsed time: 0:04:45
+# Errors: 0, Warnings: 2

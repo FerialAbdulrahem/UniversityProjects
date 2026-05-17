@@ -1,0 +1,184 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Edigitalclock
+Z0 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+32
+Z3 !s110 1764157815
+!i10b 1
+Z4 w1764157031
+!i122 7
+Z5 dC:/Users/Khaled/OneDrive/Desktop/DSD/1SUBMISSION/Smart_Parking_tb(FINAL)
+Z6 8C:/Users/Khaled/OneDrive/Desktop/DSD/1SUBMISSION/Digital_Clock/DigitalClock.vhd
+Z7 FC:/Users/Khaled/OneDrive/Desktop/DSD/1SUBMISSION/Digital_Clock/DigitalClock.vhd
+l0
+L5 1
+VZX@]=Pcm9^>Y0D;mT>kV90
+!s100 @3@VMbDdIc_SES:4hUa>l0
+Z8 OV;C;2020.1;71
+Z9 !s108 1764157815.000000
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/Khaled/OneDrive/Desktop/DSD/1SUBMISSION/Digital_Clock/DigitalClock.vhd|
+Z11 !s107 C:/Users/Khaled/OneDrive/Desktop/DSD/1SUBMISSION/Digital_Clock/DigitalClock.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R0
+R1
+R2
+DEx4 work 12 digitalclock 0 22 ZX@]=Pcm9^>Y0D;mT>kV90
+32
+R3
+!i10b 1
+!i122 7
+l20
+L15 40
+V4dhPaiQcSfOD`W:6H9Tdh3
+!s100 0O<^EOC`hbOP9:RcPo:TW2
+R8
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Edigitalclock_tb
+R0
+R1
+R2
+32
+R3
+!i10b 1
+R4
+!i122 6
+R5
+Z14 8C:/Users/Khaled/OneDrive/Desktop/DSD/1SUBMISSION/Digital_Clock/clkTest.vhd
+Z15 FC:/Users/Khaled/OneDrive/Desktop/DSD/1SUBMISSION/Digital_Clock/clkTest.vhd
+l0
+L5 1
+V03:?j9PbhK4M[;AL5C83C3
+!s100 D0Xe_=E4BR9iGbL^=d<U50
+R8
+R9
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/Khaled/OneDrive/Desktop/DSD/1SUBMISSION/Digital_Clock/clkTest.vhd|
+Z17 !s107 C:/Users/Khaled/OneDrive/Desktop/DSD/1SUBMISSION/Digital_Clock/clkTest.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R0
+R1
+R2
+DEx4 work 15 digitalclock_tb 0 22 03:?j9PbhK4M[;AL5C83C3
+32
+R3
+!i10b 1
+!i122 6
+l24
+L8 46
+VeSWVe<ObVnRJigIZ^6m9m3
+!s100 Cf1jcN?oWE[@5>44R2JQV3
+R8
+R9
+R16
+R17
+!i113 1
+R12
+R13
+Esmart_parking
+Z18 w1764249181
+R0
+R1
+R2
+!i122 16
+Z19 dC:/Users/Khaled/OneDrive/Desktop/Smart_Parking_tb(FINAL)
+Z20 8C:/Users/Khaled/OneDrive/Desktop/Smart_Parking_tb(FINAL)/Smart_Parking.vhd
+Z21 FC:/Users/Khaled/OneDrive/Desktop/Smart_Parking_tb(FINAL)/Smart_Parking.vhd
+l0
+L5 1
+V4h4RR5dQbXRb7h_do[=4Z0
+!s100 3JgHCHBc^ka><nZgK1Q=R2
+R8
+32
+Z22 !s110 1764267214
+!i10b 1
+Z23 !s108 1764267214.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Khaled/OneDrive/Desktop/Smart_Parking_tb(FINAL)/Smart_Parking.vhd|
+Z25 !s107 C:/Users/Khaled/OneDrive/Desktop/Smart_Parking_tb(FINAL)/Smart_Parking.vhd|
+!i113 1
+Z26 o-work work -2002 -explicit
+R13
+Abehavioral
+R0
+R1
+R2
+DEx4 work 13 smart_parking 0 22 4h4RR5dQbXRb7h_do[=4Z0
+!i122 16
+l50
+L19 120
+VBlKY0Mke;]G0CEWWmOlbk0
+!s100 Ya=7lYWB^7MlfX7zkljbC1
+R8
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R26
+R13
+Esmart_parking_tb
+Z27 w1764156482
+R0
+R1
+R2
+!i122 17
+R19
+Z28 8C:/Users/Khaled/OneDrive/Desktop/Smart_Parking_tb(FINAL)/Smart_Parking_tb.vhd
+Z29 FC:/Users/Khaled/OneDrive/Desktop/Smart_Parking_tb(FINAL)/Smart_Parking_tb.vhd
+l0
+L4 1
+VR?8JgNTz`c600D4Q<WjjX1
+!s100 dD98m@dFkTifdzbbBNN>Z0
+R8
+32
+R22
+!i10b 1
+R23
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Khaled/OneDrive/Desktop/Smart_Parking_tb(FINAL)/Smart_Parking_tb.vhd|
+Z31 !s107 C:/Users/Khaled/OneDrive/Desktop/Smart_Parking_tb(FINAL)/Smart_Parking_tb.vhd|
+!i113 1
+R26
+R13
+Atestbench
+R0
+R1
+R2
+Z32 DEx4 work 16 smart_parking_tb 0 22 R?8JgNTz`c600D4Q<WjjX1
+!i122 17
+l33
+Z33 L6 82
+Z34 V0;6oEdj9DM0UYEQ=9cIdI1
+Z35 !s100 ?]kjUc2JE0g2]_mm41HL90
+R8
+32
+R22
+!i10b 1
+R23
+R30
+R31
+!i113 1
+R26
+R13
